@@ -1,2 +1,2 @@
 # PacMan.js
-Pac Man game using JavaScripts!
+Pac Man game using JavaScript!
